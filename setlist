@@ -82,18 +82,27 @@ exports.BattleFormatsData = {
 	arceusghost: {
 		mnmrandomBattleMoves: ["calmmind", "judgment", "focusblast", "recover", "swordsdance", "shadowforce", "brickbreak", "willowisp", "roar", "defog"],
 		requiredItems: ["Spooky Plate", "Ghostium Z"],
+	},
 	genesect: {
 		mnmrandomBattleMoves: ["technoblast", "extremespeed", "u-turn", "bugbuzz", "flamethrower"],
 		requiredItems: ["glalitite", "pinsirite", "altarianite"],
+	},
 	landorustherian: {
 		mnmrandomBattleMoves: ["swordsdance", "rockpolish", "earthquake", "stoneedge", "uturn", "superpower", "stealthrock", "return"],
 		requiredItems: ["glalitite", "salamencite", "altarianite", "lopunnite"],
+	},
 	manaphy: {
 		mnmrandomBattleMoves: ["tailglow", "scald", "surf", "icebeam", "energyball"],
 		requiredItems: ["absolite", "sceptilite"],
+	},
 	raikou: {
 		mnmrandomBattleMoves: ["weatherball", "thunderbolt", "voltswitch", "calmmind", "hiddenpowerice"],
-		requiredItems: ["Red Orb"],
+		requiredItem: ["Red Orb"],
+	},
+	skarmory: {
+		mnmrandomBattleMoves: ["stealthrock", "defog", "roost", "bravebird", "spikes", "toxic"],
+		requiredItems: ["sablenite", "venusaurite"],
+	},
 
 	},
 
