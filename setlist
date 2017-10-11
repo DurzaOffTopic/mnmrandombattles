@@ -1,0 +1,100 @@
+'use strict';
+
+exports.BattleFormatsData = {
+	kyogreprimal: {
+		mnmrandomBattleMoves: ["calmmind", "waterspout", "originpulse", "scald", "thunder", "icebeam", "rest", "sleeptalk"],
+
+		requiredItem: "Blue Orb",
+	},
+	groudonprimal: {
+		mnmrandomBattleMoves: ["stealthrock", "precipiceblades", "lavaplume", "stoneedge", "dragontail", "rockpolish", "swordsdance", "firepunch"],
+		requiredItem: "Red Orb",
+	},
+	zygarde: {
+		mnmrandomBattleMoves: ["extremespeed", "return", "dragondance", "coil", "substitute", "thousandarrows", "outrage"],
+		requiredItems: ["Glalitite", "Pinsirite", "Altarianite],
+	},
+	arceusground: {
+		mnmrandomBattleMoves: ["swordsdance", "earthquake", "stoneedge", "recover", "extremespeed", "icebeam"],
+		requiredItems: ["Earth Plate", "Groundium Z"],
+	},
+	blissey: {
+		mnmrandomBattleMoves: ["toxic", "fleurcannon", "flashcannon", "icebeam", "thunderbolt", "painsplit", "voltswitch"],
+		requiredItems: ["sablenite", "slowbronite"],
+	},
+	magearna: {
+		mnmrandomBattleMoves: ["toxic", "flamethrower", "seismictoss", "softboiled", "wish", "healbell", "protect", "thunderwave", "stealthrock"],
+		requiredItems: ["sablenite", "cameruptite", "venusaurite", "latiasite"],
+	},
+	arceusfairy: {
+		mnmrandomBattleMoves: ["calmmind", "judgment", "recover", "willowisp", "defog", "thunderbolt", "toxic", "fireblast"],
+		requiredItem: ["Pixie Plate"],
+	deoxysspeed: {
+		mnmrandomBattleMoves: ["spikes", "stealthrock", "superpower", "psychoboost", "taunt", "magiccoat", "knockoff"],
+		requiredItem: ["gyaradosite"],
+	kartana: {
+		mnmrandomBattleMoves: ["leafblade", "sacredsword", "smartstrike", "psychocut", "swordsdance"],
+		requiredItems: ["metagrossite", "lopunnite"],
+	tapulele: {
+		mnmrandomBattleMoves: ["moonblast", "psyshock", "calmmind", "focusblast", "taunt"],
+		requiredItems: ["diancite", "absolite", "pidgeotite", "lucarionite"],
+	},
+	xerneas: {
+		mnmrandomBattleMoves: ["moonblast", "psyshock", "focusblast", "grassknot", "hiddenpowerground", "thunderbolt"],
+		requiredItem: ["choicescarf"],
+	},
+	xerneas: {
+		mnmrandomBattleMoves: ["moonblast", "psyshock", "geomancy", "focusblast", "grassknot", "hiddenpowerground", "thunderbolt"],
+		requiredItems: ["powerherb", "Fairium Z"],
+	},
+	zapdos: {
+		mnmrandomBattleMoves: ["roost", "defog", "discharge", "voltswitch", "heatwave", "hiddenpowerice", "thunderbolt"],
+		requiredItems: ["venusaurite", "sablenite"],
+	},
+	entei: {
+		mnmrandomBattleMoves: ["extremespeed", "return", "sacredfire", "bulldoze", "stoneedge"],
+		requiredItems: ["altarianite", "pinsirite"],
+	},
+	tapukoko: {
+		mnmrandomBattleMoves: ["voltswitch", "naturesmadness", "thunderbolt", "dazzlinggleam", "grassknot"],
+		requiredItem: ["lucarionite"],
+	},
+	tapukoko: {
+		mnmrandomBattleMoves: ["return", "u-turn", "quickattack", "wildcharge", "naturesmadness"],
+		requiredItems: ["Pinsirite", "Altarianite"],
+	},
+	terrakion: {
+		mnmrandomBattleMoves: ["stoneedge", "earthquake", "taunt", "closecombat", "stealthrock", "swordsdance"],
+		requiredItems: ["lucarionite", "diancite", "metagrossite"],
+	},
+	toxapex: {
+		mnmrandomBattleMoves: ["banefulbunker", "toxicspikes", "scald", "haze", "recover", "toxic"],
+		requiredItems: ["sablenite", "latiasite", "gyaradosite"],
+	},
+	weavile: {
+		mnmrandomBattleMoves: ["fakeout", "feint", "lowkick", "swordsdance", "return"],
+		requiredItem: ["glalitite"],
+	},
+	weavile: {
+		mnmrandomBattleMoves: ["pursuit", "throatchop", "iciclecrash", "swordsdance", "iceshard"],
+		requiredItem: ["lucarionite"],
+	},
+	arceusghost: {
+		mnmrandomBattleMoves: ["calmmind", "judgment", "focusblast", "recover", "swordsdance", "shadowforce", "brickbreak", "willowisp", "roar", "defog"],
+		requiredItems: ["Spooky Plate", "Ghostium Z"],
+	genesect: {
+		mnmrandomBattleMoves: ["technoblast", "extremespeed", "u-turn", "bugbuzz", "flamethrower"],
+		requiredItems: ["glalitite", "pinsirite", "altarianite"],
+	landorustherian: {
+		mnmrandomBattleMoves: ["swordsdance", "rockpolish", "earthquake", "stoneedge", "uturn", "superpower", "stealthrock", "return"],
+		requiredItems: ["glalitite", "salamencite", "altarianite", "lopunnite"],
+	manaphy: {
+		mnmrandomBattleMoves: ["tailglow", "scald", "surf", "icebeam", "energyball"],
+		requiredItems: ["absolite", "sceptilite"],
+	raikou: {
+		mnmrandomBattleMoves: ["weatherball", "thunderbolt", "voltswitch", "calmmind", "hiddenpowerice"],
+		requiredItems: ["Red Orb"],
+
+	},
+
+};
